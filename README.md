@@ -25,9 +25,6 @@ An Arduino-powered autonomous vehicle capable of **real-time path following** an
 - Warehouse automation
 - Autonomous delivery systems
 
-## 📷 Project Media
-*(Add images or videos here for demonstration)*
-
 ## 📜 How to Run
 1. Clone this repository:
    ```bash
