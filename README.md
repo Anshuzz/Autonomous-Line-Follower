@@ -1,7 +1,5 @@
 # Autonomous-Line-Follower
 
-# Autonomous Line Follower Robot
-
 An Arduino-powered autonomous vehicle capable of **real-time path following** and **obstacle avoidance**, designed for efficient navigation in dynamic environments.
 
 ## 🚀 Features
