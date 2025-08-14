@@ -1,35 +1,36 @@
 # Autonomous-Line-Follower
-Autonomous Line Follower Robot
 
-An Arduino-powered autonomous vehicle capable of real-time path following and obstacle avoidance, designed for efficient navigation in dynamic environments.
+# Autonomous Line Follower Robot
 
-Key Features
+An Arduino-powered autonomous vehicle capable of **real-time path following** and **obstacle avoidance**, designed for efficient navigation in dynamic environments.
 
-IR Sensor Integration: Detects track boundaries and adjusts steering for precise movement.
+## 🚀 Features
+- **IR Sensor Integration** – Detects track boundaries and adjusts steering for precise movement.
+- **Microcontroller-Based Navigation** – Arduino processes sensor inputs and executes control commands.
+- **Adaptive Decision-Making** – Control algorithms respond to changing track conditions in real-time.
+- **Performance Optimization** – Calibrated for smooth and consistent operation.
 
-Microcontroller-Based Navigation: Utilizes Arduino to process sensor inputs and execute control commands.
+## 🛠 Tech Stack & Hardware
+- **Microcontroller:** Arduino UNO
+- **Sensors:** IR Sensors
+- **Actuators:** DC Motors with L298N Motor Driver
+- **Power:** Battery Supply
+- **Chassis:** 2WD Robot Car Kit
+- **Programming:** C/C++ (Arduino IDE)
 
-Adaptive Decision-Making: Implements algorithms that respond to changes in track conditions in real-time.
+## 📊 Outcomes
+- Achieved **~95% accuracy** in path-following during controlled tests.
+- Reliable obstacle detection and avoidance at varying speeds.
 
-Performance Optimization: Fine-tuned through iterative calibration for smooth and consistent operation.
+## 📌 Applications
+- Robotics competitions
+- Warehouse automation
+- Autonomous delivery systems
 
-Tech Stack & Hardware
+## 📷 Project Media
+*(Add images or videos here for demonstration)*
 
-Arduino UNO
-
-IR Sensors
-
-DC Motors with Motor Driver (L298N)
-
-Power Supply & Chassis Kit
-
-C/C++ for embedded programming
-
-Outcomes
-
-Achieved 95% accuracy in path-following during controlled tests.
-
-Demonstrated reliable obstacle detection and avoidance at varying speeds.
-
-Applications
-This project showcases embedded systems, sensor integration, and control algorithm design, making it suitable for robotics competitions, warehouse automation, and autonomous delivery systems.
+## 📜 How to Run
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/yourusername/Autonomous-Line-Follower.git
